@@ -18,7 +18,7 @@ const initialState = {
             rightButton: 'Existing Enventory',
         },
         {
-            bgImage: 'src/assets/Model-S.jpg',
+            bgImage: 'assets/Model-S.jpg',
             title: 'Model S',
             subtitle: 'Schedule a Test Drive',
             leftButton: 'Custom Order',
@@ -32,7 +32,7 @@ const initialState = {
             rightButton: 'Existing Enventory',
         },
         {
-            bgImage: 'assets/Accsessoary.jpg',
+            bgImage:  'assets/Accsessoary.jpg',
             title: 'Accessories',
             leftButton: 'Shop Now',
             accessoriesSection: true,
